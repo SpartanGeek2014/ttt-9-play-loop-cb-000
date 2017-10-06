@@ -43,4 +43,4 @@ def play(board)
       turn_count+=1
     end
 end
-play
+
