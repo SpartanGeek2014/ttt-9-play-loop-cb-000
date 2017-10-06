@@ -44,4 +44,4 @@ def play(board)
     end
 end
 
-play
+play(0)
