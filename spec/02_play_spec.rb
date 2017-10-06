@@ -11,4 +11,4 @@ describe 'play' do
     expect(board).to eq(["X","X","X","X","X","X","X","X","X",])
   end
 end
-play 
+play
